@@ -11,8 +11,8 @@ images: []
 tags: ["projects",]
 categories: ["projects"]
 
-featuredImage: "riverlane_logo.png"
-featuredImagePreview: "riverlane_logo.png"
+featuredImage: "riverlane_white_bck.png"
+featuredImagePreview: "riverlane_white_bck.png"
 
 lightgallery: true
 fontawesome: true
