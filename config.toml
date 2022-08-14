@@ -1,0 +1,189 @@
+baseURL = "http://example.org/"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+# website title
+title = "Luka Skorić personal website"
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "en"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+languageName = "English"
+
+
+# whether to use robots.txt
+enableRobotsTXT = true
+
+# Author config
+[author]
+  name = "Luka Skorić"
+  email = "skoriclk@gmail.com"
+  link = ""
+
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 2
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+  [[menu.main]]
+    weight = 1
+    identifier = "projects"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Projects"
+    url = "/categories/projects/"
+    # title will be shown when you hover on this menu link
+    title = ""
+
+  [[menu.main]]
+    weight = 2
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Resources"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "photos"
+    pre = ""
+    post = ""
+    name = "Photos"
+    url = "https://photos.google.com/share/AF1QipMelXnHMbZ3lDXigSyaY5gMb7aAsPM9Pzn_0VRolTTs69uNtPYb6ESDsWtyMIr-jQ?key=MHpuNWdyaUFWWnptMXVIdm9wNXJvRHNyUWNad3pn"
+    title = ""
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[params]
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "auto"
+  # public git repo url only then enableGitInfo is true
+  gitRepo = ""
+  # LoveIt NEW | 0.1.1 which hash function used for SRI, when empty, no SRI is used
+  # ["sha256", "sha384", "sha512", "md5"]
+  fingerprint = ""
+  # LoveIt NEW | 0.2.0 date format
+  dateFormat = "02/01/2006"
+  # website title for Open Graph and Twitter Cards
+  title = "Luka Skorić"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "Luka Skorić Personal Website"
+  # website images for Open Graph and Twitter Cards
+  images = ["/hydrogen_cropped_small.png"]
+  noFavicon = false
+
+# Header config
+[params.header]
+  # desktop header mode ["fixed", "normal", "auto"]
+  desktopMode = "fixed"
+  # mobile header mode ["fixed", "normal", "auto"]
+  mobileMode = "auto"
+  # LoveIt NEW | 0.2.0 Header title config
+  [params.header.title]
+    # URL of the LOGO
+    logo = "hydrogen_cropped_small.png"
+    # title name
+    name = "Luka Skorić"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = " "
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
+    typeit = false
+    
+# Footer config
+[params.footer]
+  enable = true
+  # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
+  custom = ''
+  # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
+  hugo = false
+  # LoveIt NEW | 0.2.0 whether to show copyright info
+  copyright = true
+  # LoveIt NEW | 0.2.0 whether to show the author
+  author = true
+  # Site creation time
+  since = 2022
+  # ICP info only in China (HTML format is supported)
+  icp = ""
+  # license info (HTML format is supported)
+  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+# Home page config
+[params.home]
+  # LoveIt NEW | 0.2.0 amount of RSS pages
+  rss = 10
+  # Home page profile
+  [params.home.profile]
+    enable = true
+    # Gravatar Email for preferred avatar in home page
+    gravatarEmail = ""
+    # URL of avatar shown in home page
+    avatarURL = "profile_pic1.jpg"
+    # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+    title = ""
+    # subtitle shown in home page (HTML format is supported)
+    subtitle = "Welcome to my personal website"
+    # whether to use typeit animation for subtitle
+    typeit = true
+    # whether to show social links
+    social = true
+    # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
+    disclaimer = ""
+  # Home page posts
+  [params.home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    paginate = 6
+    # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+    # default behavior when you don't set "hiddenFromHomePage" in front matter
+    defaultHiddenFromHomePage = false
+  # Home page posts
+  [params.home.projects]
+    enable = false
+    # special amount of posts in each home posts page
+    paginate = 6
+    # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+    # default behavior when you don't set "hiddenFromHomePage" in front matter
+    defaultHiddenFromHomePage = false
+  
+# Social config about the author
+[params.social]
+  GitHub = "https://github.com/Skoricius"
+  Linkedin = ""
+  Googlescholar = "yCXDDBkAAAAJ&hl=en"
+  ORCID = "0000-0002-2169-3008"
+  Email = "skoriclk@gmail.com"
+  RSS = false
