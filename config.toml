@@ -4,7 +4,7 @@ baseURL = "http://localhost/"
 theme = "LoveIt"
 
 # website title
-title = "Luka Skorić personal website"
+title = "Luka Skorić"
 
 defaultContentLanguage = "en"
 # language code ["en", "zh-CN", "fr", "pl", ...]
