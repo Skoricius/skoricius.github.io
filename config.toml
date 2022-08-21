@@ -6,14 +6,19 @@ theme = "LoveIt"
 # website title
 title = "Luka Skorić personal website"
 
+defaultContentLanguage = "en"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
+hasCJKLanguage = false
 
 
 # whether to use robots.txt
 enableRobotsTXT = true
+
+# default amount of posts in each pages
+paginate = 12
 
 # Author config
 [author]
@@ -143,6 +148,7 @@ enableRobotsTXT = true
     # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
     # default behavior when you don't set "hiddenFromHomePage" in front matter
     defaultHiddenFromHomePage = false
+   
   
 # Social config about the author
 [params.social]
@@ -152,3 +158,20 @@ enableRobotsTXT = true
   ORCID = "0000-0002-2169-3008"
   Email = "skoriclk@gmail.com"
   RSS = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  
+# Multilingual
+[languages]
+    [languages.en.params]
+      [languages.en.params.search]
+        enable = true
+        type = "lunr"
+        contentLength = 4000
+        placeholder = ""
+        maxResultLength = 10
+        snippetLength = 30
+        highlightTag = "em"
+        absoluteURL = false
+
