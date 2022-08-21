@@ -62,6 +62,9 @@ In my first NanoDTC Mini project, I worked with in [Hybrid Nanomaterials Enginee
 
 One of the key ingredients of these devices is the dielectric layer that creates a separation between conducting layers. I was working on creating and testing polymers inks for appications in printable electronics. More details about the project can be found in the report below.
 
+
+[{{<rawhtml>}}<i class="fa-solid fa-file"></i>{{</rawhtml>}} Download report](mini1_report.pdf)
+
 ## Mini 2: Protein firbils
 
 {{< figure src="AFMcombined.png" title="AFM of amyloid protein fibrils" >}}
@@ -69,6 +72,8 @@ One of the key ingredients of these devices is the dielectric layer that creates
 The second Mini project I worked in [Molecular Neuroscience group](https://www.ceb-mng.org/) with Dr S. Kaminski Schierle on understanding the flourescence of protein structures known as [amyloid protein fibrils](https://en.wikipedia.org/wiki/Amyloid#Amyloid_toxicity). These have been linked to a number of degerative diseases, including Alzheimer's and Parkinson's. These proteins form long fibrils seen on the picture above (taken by [Atomic Force Microscope](https://en.wikipedia.org/wiki/Atomic_force_microscopy)). Understanding the fibrilisation process is the key for progress in diagnostics and treatment of neurodegenerative diseases.
 
 In their fibrilised state these proteins exhibit fluorescence believed to be closely related to the fiber structure. I worked on inducing the fibrilisation, studied their structure and measured flourescence. More details can be found in the report below.
+
+[{{<rawhtml>}}<i class="fa-solid fa-file"></i>{{</rawhtml>}} Download report](mini2_report.pdf)
 
 ## Midi: 3D spintronics
 
@@ -80,3 +85,5 @@ Nanomagnetic devices based on motion of magnetic domains could be used for the n
 We attempted to use transparent [paralyne](https://en.wikipedia.org/wiki/Parylene#:~:text=Coatings%20of%20parylene%20are%20often,adverse%20reactions%20to%20implanted%20devices.) layer to contact 3D structures from top and bottom. With this, we would be able to at the same time measure the magnetic state (for which we need to shine a laser on the structure) and the electrical response.
 
 Although I had promising results, it was not reliable enough for routine measurements. In my PhD, I ended up focusing on the 3D fabrication and magneto-optical measurements.
+
+[{{<rawhtml>}}<i class="fa-solid fa-file"></i>{{</rawhtml>}} Download report](midi_report.pdf)

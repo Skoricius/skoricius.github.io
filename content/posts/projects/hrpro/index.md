@@ -2,10 +2,9 @@
 weight: 1
 title: "HrPro"
 date: 2014-07-01
-lastmod: 2014-07-01T21:58:45+01:00
+lastmod: 2022-08-21 12:27:14
 draft: false
 author: ""
-description: "My work at Riverlane"
 images: []
 
 tags: ["projects",]
