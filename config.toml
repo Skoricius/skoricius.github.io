@@ -91,13 +91,13 @@ paginate = 12
   # LoveIt NEW | 0.2.0 Header title config
   [params.header.title]
     # URL of the LOGO
-    logo = "hydrogen_cropped_small.png"
+    # logo = "hydrogen_cropped_small.png"
     # title name
     name = "Luka Skorić"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = " "
     # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
+    post = "&nbsp <img src=hydrogen_cropped_small.png style='height:1.5em;vertical-align:text-bottom;' /img>"
     # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
     typeit = false
     
