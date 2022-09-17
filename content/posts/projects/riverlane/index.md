@@ -51,3 +51,5 @@ computers scalable and practically useful. In Riverlane, I am a
 part of the Decode team that works on solving these problems by
 building **Quantum Error Correction (QEC)** and
 **Benchmarking** systems.
+
+You can read more about our technology [here](https://www.riverlane.com/technology/)

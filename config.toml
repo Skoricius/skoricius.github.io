@@ -40,14 +40,14 @@ paginate = 12
     # title will be shown when you hover on this menu link
     title = ""
 
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
+  # [[menu.main]]
+  #   weight = 3
+  #   identifier = "categories"
+  #   pre = ""
+  #   post = ""
+  #   name = "Categories"
+  #   url = "/categories/"
+  #   title = ""
   [[menu.main]]
     weight = 3
     identifier = "photos"
@@ -95,9 +95,9 @@ paginate = 12
     # title name
     name = "Luka Skorić"
     # you can add extra information before the name (HTML format is supported), such as icons
-    pre = " "
+    pre = "<img src='/hydrogen_cropped_small.png' style='height:1.5em;vertical-align:text-bottom;' /img> &nbsp"
     # you can add extra information after the name (HTML format is supported), such as icons
-    post = "&nbsp <img src=hydrogen_cropped_small.png style='height:1.5em;vertical-align:text-bottom;' /img>"
+    # post = "&nbsp <img src='hydrogen_cropped_small.png' style='height:1.5em;vertical-align:text-bottom;' /img>"
     # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
     typeit = false
     
