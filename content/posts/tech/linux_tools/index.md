@@ -10,12 +10,12 @@ images: []
 tags: ["tech",]
 categories: ["tech"]
 
-lightgallery: true
+lightgallery: false
 fontawesome: true
 
 toc:
-  enable: false
-  auto: false
+  enable: true
+  auto: true
 code:
   copy: true
   maxShownLines: 50
@@ -35,7 +35,7 @@ comment:
 # My basic linux setup
 
 1) ssh into the server and paste the github private key (or create a new pair):
-```
+```bash
 ssh-keygen -t rsa
 ```
 2) Edit .ssh/config:
@@ -48,7 +48,7 @@ Host github.com
  " >> ~/.ssh/config
  ```
 2) Clone the git repository
-```
+```bash
 git init ~/
 git remote add origin git@github.com:Skoricius/linux_setup.git
 git fetch
@@ -76,14 +76,14 @@ Run with `telegram <message>`.
 # Useful commands
 
 ## Reverse ssh
-```
+```bash
 ssh -N -L 8001:localhost:8888 luka@dreams-ai.com
 ```
 
 (local-port:remote-port server-address)
 
 ## Setting up ssh key
-```
+```bash
 ssh-keygen -t rsa -f ~/.ssh/id_rsa
 ssh-copy-id -i $HOME/.ssh/id_rsa.pub user@server
 ```
@@ -100,7 +100,7 @@ Host dreams-config
 
 ## Transferring files
 Using rsync (faster than sftp and only transferres deltas)
-```
+```bash
 rsync -azP <remote_host>:<remote_folder> <local_folder>
 ```
 
@@ -111,7 +111,7 @@ Just download the binary and run: `duf -b 0.0.0.0` and remember to allow the por
 ### Google Drive
 
 For Google drive sync from terminal, use [gdrive](https://github.com/prasmussen/gdrive).
-```
+```bash
 go install github.com/prasmussen/gdrive@latest
 ```
 
@@ -122,9 +122,6 @@ And then:
 
 ## Setting up VPN on a private server
 https://github.com/StreisandEffect/streisand
-
-## Markdown to pdf
-grip <filename>.md
   
 ## Downloading podcasts and youtube
 youtube: https://ytdl-org.github.io/youtube-dl/index.html
