@@ -38,7 +38,19 @@ paginate = 12
     name = "Projects"
     url = "/categories/projects/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Personal projects and work"
+
+  [[menu.main]]
+    weight = 2
+    identifier = "tech"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Tech"
+    url = "/categories/tech/"
+    # title will be shown when you hover on this menu link
+    title = "Tech tools, useful hints, and learnings"
 
   # [[menu.main]]
   #   weight = 3
@@ -55,7 +67,7 @@ paginate = 12
     post = ""
     name = "Photos"
     url = "https://photos.google.com/share/AF1QipMelXnHMbZ3lDXigSyaY5gMb7aAsPM9Pzn_0VRolTTs69uNtPYb6ESDsWtyMIr-jQ?key=MHpuNWdyaUFWWnptMXVIdm9wNXJvRHNyUWNad3pn"
-    title = ""
+    title = "Public Google Photos"
 
 # Markup related configuration in Hugo
 [markup]
