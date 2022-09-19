@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: "Useful Linux Tools"
+date: 2022-09-19
 lastmod: 2022-09-19 20:34:56
 draft: false
 author: ""
