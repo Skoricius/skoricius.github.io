@@ -43,3 +43,12 @@ comment:
 * Need to read in more detail the [original paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531)
 * The (main) final goal of the society should be preservation of life. There can be multiple final goals as multiple orthogonal directions can be optimized independently.
 * For preservation of life, existance of an intelligent species like humans is paramount.
+* The distinction between "is" and "should" questions. I think in modern society, we came to rely on science to answer all of our questions. However, science can only answer "is" questions. I.e. if we do this, then these are the consequences. But we rarely openly discuss "should" questions. I.e. what should we do with that information, what are our values and how do we live by them. These questions don't have a correct answer and they only depend on what you define to be the set of your final goals. This is where philosophy starts playing the key role.
+* We as a society have to get away from the notion of certainties - that's just not how the world (quantum) works. We need to be comfortable with probabilities and think in the terms of degrees of belief - ergo Bayesian statistic. 
+* All of the above makes me believe that to make progress in society, we need to heavily invest in education and in particular in better representation of several key areas: statistics and logical fallacies, philosophy and history of philosophical ideas, understanding of cause-effect, statistical significance and correlations vs causation
+
+
+## Meaning fo life
+
+* Meaning or purpose of life is the wrong question to ask. When you start examining what these words actually mean and what kind of answer would be satisfactory, you realize that this question does not make sense. Just because we can form a question does not mean it actually has a meaning or a good answer. In my opinion, meaning is in the sense "What is the meaning of a word?" i.e. how this word relates to the reality and objects in it. So "meaning of life" doesn't really make sense. Similarly "purpose" is what we want to use something for. Life and us are not a tool like a hammer. The purpose of a hammer is to nail down nails. In that sense, the question of the purpose of life would only make sense if there was another being/God that is using us to an end. But I do not believe this to be the case.
+* The correct question should be what are the ultimate goals which we should pursue and if there is any way we can derive them from some higher principle?
