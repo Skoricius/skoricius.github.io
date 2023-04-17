@@ -66,3 +66,9 @@ The correct question that I believe most people want to answer is what should be
 
 Life is a bet. There is nothing we can be certain of. Ever. Uncertainty is scary. We all like to know facts about the world. Things which are true and can never change. We think we know some things for certain. That Sun is going to come out tomorrow. That if we drop something, it will fall to the ground. That the ground is solid and air gaseous. 
 These things we are certain of. But are we?
+
+
+## AI safety
+
+Thinking about AI safety and the alignment problem, one thing occured to me. The (current) AI is not at all the same as human-level intelligence. The big difference is that we are continuously thinking and can do internal reasoning through time without interacting with the world. The current AI is an input-output model. Meaning that for it to think, you need to provide it an input and then it generates an output (with a possible change to the internal state). However, it doesn't save the state between conversation and it is not continuously evolving as it is getting feedback from the world. Sure, there is a training procedure, but that's separate from the inference. It is not like there is a single model that is conversing with everyone online, remembering those conversations and doing internal contemplating about them. 
+Maybe that is not enough to completely stop it, but I definitely see it affecting it's evolution. However, I guess there is nothing stopping people from creating a truly *living* AI that has periods of internal contemplation together with persistant memory across conversations.
