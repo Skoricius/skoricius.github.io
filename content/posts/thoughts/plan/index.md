@@ -31,6 +31,10 @@ comment:
   enable: false
 ---
 
+# To write about
+
+* Difficulty of changing ideas, implasticity of the brain
+* 
 
 # My Life Philosophy
 

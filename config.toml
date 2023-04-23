@@ -48,7 +48,7 @@ paginate = 12
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Thoughts"
-    url = "/posts/thoughts/"
+    url = "/categories/thoughts/"
     # title will be shown when you hover on this menu link
     title = "Thoughts about life and philosophy"
 
