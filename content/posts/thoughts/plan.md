@@ -50,21 +50,6 @@ comment:
 * We as a society have to get away from the notion of certainties - that's just not how the world (quantum) works. We need to be comfortable with probabilities and think in the terms of degrees of belief - ergo Bayesian statistic. 
 * All of the above makes me believe that to make progress in society, we need to heavily invest in education and in particular in better representation of several key areas: statistics and logical fallacies, philosophy and history of philosophical ideas, understanding of cause-effect, statistical significance and correlations vs causation
 
-
-## Meaning of life
-
-Meaning or purpose of life is the wrong question to ask. When you start examining what these words actually mean and what kind of answer would be satisfactory, you realize that this question does not necessarily make sense. At least not in a way that we would usually think.
-If I asked you what do you mean by meaning in the question *"What is the meaning of life?"*, what would you say? 
-
-Just because we can form a question does not mean it actually has a meaning or a good answer. An example would be a question like *think of a good example here*.
-
-Meaning of life is a question like that. The word meaning means **the thing that is conveyed especially by the language**. This would be in the sense *"What is the meaning of a word?"* i.e. how does this word relate to the reality and objects in it. So *"meaning of life"* doesn't really make sense.
-
-Another way to form this question is *What is the purpose of life?*. Similarly to the "meaning", the word "purpose" here would convey something different than what the asker might have intended. Purpose is **something set up as an object or an end to be attained**.
-People's lives are not a tool like a hammer. The purpose of a hammer is to nail down nails. In that sense, the question of the purpose of life would only make sense if there was another being/God that is using us to an end. But I do not believe this to be the case. And if there is no God, then we are nobody's tools, and we don't have a purpose.
-
-The correct question that I believe most people want to answer is what should be our ultimate goals? And is there a higher principle from which these can be derived?
-
 ## Bayesian statistics
 
 Life is a bet. There is nothing we can be certain of. Ever. Uncertainty is scary. We all like to know facts about the world. Things which are true and can never change. We think we know some things for certain. That Sun is going to come out tomorrow. That if we drop something, it will fall to the ground. That the ground is solid and air gaseous. 
