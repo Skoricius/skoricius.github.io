@@ -43,11 +43,15 @@ Meaning of life is a question like that. The word meaning means **the thing that
 Another way to form this question is *"What is the purpose of life?"*. Similarly to the "meaning", the word "purpose" here would convey something different than what the asker might have intended. Purpose is **something set up as an object or an end to be attained**.
 People's lives are not a tool like a hammer. The purpose of a hammer is to nail down nails. In that sense, the question of the purpose of life would only make sense if there was another being/God that is using us to an end. But I do not believe this to be the case. And if there is no God, then we are nobody's tools, and we don't have a purpose. That might sound bad when you first read it, but I am not advocating religion -- I am not keen on being anyone's tool just so I could give an answer to a semi-meaningless question.
 
+## What we ought to be asking
+
 The correct question that I believe most people want to answer is what ought to be our ultimate goals? And is there a higher principle from which these can be derived?
-The short answer to this is no. This stems from the [**Hume's law**](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) (also known and the is-ought problem) that says that no ought statements (e.g. I should do this) can be deduced from is statements (e.g. Sky is blue. People have evolved from apelike ancestors.). So no amount of our knowledge of the world can help us deduce what ought we to be doing with our lives. Therefore, we need at least one ought statement that we start with to start deducing the other ones.
+The short answer to this is no. This stems from the [**Hume's law**](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) (also known and the is-ought problem) that says that no ought statements (e.g. I should do this) can be deduced from is statements (e.g. Sky is blue. People have evolved from apelike ancestors.). No amount of our knowledge about the world can help us deduce what we ought to be doing with our lives. We need at least one ought statement that we proclaim to be true before we can start deducing other ones.
 E.g. if we agree that I ought to try to preserve my life (on no basis whatsoever). Then we can deduce that I **ought** to avoid dancing on a highway because there **are** fast driving cars that **are** likely going to hit me. Using similar reasoning, we can deduce a lot about what I ought to do using our predictive knowledge.
 
 The next question is then what ought to be our base ought statement. This question is circular and no good argument can be made to justify why one ultimate goal is better than the other because evaluating what *better* means can only be done in relation to some set of moral principles that stem from the ultimate goal itself.
+
+## Answering the question
 
 Therefore, without much justification, I will propose one base ought statement that makes sense to me: **preservation of life**. This does not necessarily mean preservation of individuals, but preservation of a biosphere. Personally, this was the highest principle that I could think of. Because Universe with life that can observe and appreciate it is infinitely better than the Universe without it.
 
