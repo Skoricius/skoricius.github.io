@@ -4,7 +4,7 @@ title: "Riverlane"
 date: 2021-09-14
 lastmod: 2022-08-14T21:58:45+01:00
 draft: false
-author: ""
+author: "Luka Skoric"
 description: "My work at Riverlane"
 images: []
 
@@ -35,7 +35,7 @@ comment:
   enable: false
 ---
 
-I recently started work at
+I started working for
 [Riverlane](https://riverlane.com/), a quantum
 engineering company. We work on making quantum computing useful
 sooner by developing an operating system Deltaflow.OS to help

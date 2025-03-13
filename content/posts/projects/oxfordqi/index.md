@@ -4,7 +4,7 @@ title: "Oxford QI"
 date: 2015-09-01
 lastmod: 2022-08-21 12:26:21
 draft: false
-author: ""
+author: "Luka Skoric"
 images: []
 
 tags: ["projects",]

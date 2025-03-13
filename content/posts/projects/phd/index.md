@@ -4,7 +4,7 @@ title: "PhD"
 date: 2017-09-01
 lastmod: 2022-08-16T21:58:45+01:00
 draft: false
-author: ""
+author: "Luka Skoric"
 description: "PhD projects"
 images: []
 

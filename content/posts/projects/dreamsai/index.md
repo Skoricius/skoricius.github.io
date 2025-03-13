@@ -4,7 +4,7 @@ title: "DreamsAI"
 date: 2020-03-14
 lastmod: 2022-08-14T21:58:45+01:00
 draft: false
-author: ""
+author: "Luka Skoric"
 description: "AI internship with DreamsAI"
 images: []
 

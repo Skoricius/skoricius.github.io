@@ -4,7 +4,7 @@ title: "HrPro"
 date: 2014-07-01
 lastmod: 2022-08-21 12:27:14
 draft: false
-author: ""
+author: "Luka Skoric"
 images: []
 
 tags: ["projects",]

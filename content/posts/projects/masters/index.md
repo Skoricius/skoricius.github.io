@@ -4,7 +4,7 @@ title: "Masters project"
 date: 2016-09-01
 lastmod: 2022-08-21 12:51:17
 draft: false
-author: ""
+author: "Luka Skoric"
 images: []
 
 tags: ["projects",]
