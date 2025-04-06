@@ -18,7 +18,7 @@ hasCJKLanguage = false
 enableRobotsTXT = true
 
 # default amount of posts in each pages
-paginate = 12
+pagination.PagerSize = 12
 
 # Author config
 [author]
@@ -155,7 +155,7 @@ paginate = 12
   [params.home.posts]
     enable = true
     # special amount of posts in each home posts page
-    paginate = 6
+    pagination.PagerSize = 6
     # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
     # default behavior when you don't set "hiddenFromHomePage" in front matter
     defaultHiddenFromHomePage = false
