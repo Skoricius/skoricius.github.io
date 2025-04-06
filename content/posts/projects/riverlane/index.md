@@ -36,20 +36,16 @@ comment:
 ---
 
 I started working for
-[Riverlane](https://riverlane.com/), a quantum
-engineering company. We work on making quantum computing useful
-sooner by developing an operating system Deltaflow.OS to help
-quantum hardware companies scale faster, reduce errors and
-implement practical quantum error correction.
+[Riverlane](https://riverlane.com/) in September 2021. We work on making quantum computing useful
+sooner by developing a Quantum Error Correction stack.
+
 
 Quantum Computers are very sensitive systems and it is
 unavoidable that they constantly make errors. Therefore, to make
-them practically useful, we need to have benchmarking systems
-which characterise the errors in the system, and systems that
+them practically useful, we need systems that
 correct those errors. These are crucial to making useful quantum
 computers scalable and practically useful. In Riverlane, I am a
-part of the Decode team that works on solving these problems by
-building **Quantum Error Correction (QEC)** and
-**Benchmarking** systems.
+part of the Logic team that works on solving these problems by
+building a **Quantum Error Correction stack** .
 
-You can read more about our technology [here](https://www.riverlane.com/technology/)
+You can read more about our technology [here](https://www.riverlane.com/technology/).
