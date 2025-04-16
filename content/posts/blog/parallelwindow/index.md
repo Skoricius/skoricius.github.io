@@ -2,7 +2,7 @@
 ---
 weight: 1
 title: "Parallel window decoding"
-date: 2022-11-09
+date: 2023-11-03
 lastmod: 2025-04-16T13:03:00+01:00
 draft: false
 author: "Luka Skoric"
